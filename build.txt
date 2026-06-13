@@ -1,0 +1,3 @@
+displayName = Mystical Adventure
+author = OwenDraw x SoulMinf x NerdGarage
+version = 1.2
