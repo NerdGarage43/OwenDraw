@@ -1,0 +1,59 @@
+Mods: {
+	Owendraw: {
+		Items: {
+			Owendraw: {
+				DisplayName: Foxboy Scarf
+				Tooltip: ""
+			}
+
+			Guidance: {
+				DisplayName: Guidance
+				Tooltip: Increases damage and gains new attacks when bosses killed for the first time
+			}
+
+			SolarSingularity: {
+				DisplayName: Solar Singularity
+				Tooltip: ""
+			}
+
+			Contract: {
+				DisplayName: The Contract
+				Tooltip:
+					'''
+					Converts all arrows into Contract arrows
+					Increases damage and gains new attacks when bosses killed for the first time
+					'''
+			}
+
+			SoulLantern: {
+				DisplayName: Everjade Relic
+				Tooltip: ""
+			}
+		}
+
+		Configs: {
+			Config: {
+				DisplayName: OwenDraw's Vanity Config
+				DisableDyes.Tooltip: Disable Dyes
+			}
+		}
+
+		Config.DisableDyes: Disable Dyes
+
+		Projectiles: {
+			GuidanceFox_Body.DisplayName: Guidance Fox
+			GuidanceFox_Head.DisplayName: Guidance Fox
+			GuidanceFox_Tail.DisplayName: Guidance Fox
+			ContractArrowMode1.DisplayName: Contract Arrow
+			ContractArrowMode2.DisplayName: Contract Arrow
+			ContractSlash.DisplayName: Contract Slash
+			SoulLanternBolt.DisplayName: Soul Light
+			SoulLanternSentry.DisplayName: Soul Lantern
+			GuidanceFoxBody.DisplayName: Guidance Fox Body
+			GuidanceFoxHead.DisplayName: Guidance Fox Head
+			GuidanceFoxShot.DisplayName: Guidance Fox Shot
+			GuidanceFoxTail.DisplayName: Guidance Fox Tail
+			GuidanceFoxTrail.DisplayName: Guidance Fox Trail
+		}
+	}
+}

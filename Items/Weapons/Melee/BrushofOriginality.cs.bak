@@ -1,0 +1,39 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Terraria;
+using Terraria.DataStructures;
+using Terraria.ID;
+using Terraria.ModLoader;
+using static Terraria.ModLoader.ModContent;
+using Owendraw.Projectiles;
+
+namespace Owendraw.Items.Weapons.Melee
+{
+    public class BrushofOriginality : ModItem
+    {
+        public override void SetDefaults()
+        {
+            Item.width = 86;
+            Item.height = 148;
+            Item.damage = 41;
+            Item.DamageType = DamageClass.MeleeNoSpeed;
+            Item.noUseGraphic = true;
+            Item.noMelee = true;
+            Item.useAnimation = 22;
+            Item.useTime = 22;
+            Item.useTurn = true;
+            Item.channel = true;
+            Item.useStyle = ItemUseStyleID.Shoot;
+            Item.knockBack = 6.25f;
+            Item.UseSound = null;
+            Item.autoReuse = true;
+            Item.rare = ItemRarityID.LightRed;
+            Item.shoot = ProjectileID.PurificationPowder;
+            Item.shootSpeed = 15f;
+        }
+    }
+}
