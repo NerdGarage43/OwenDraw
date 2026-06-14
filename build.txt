@@ -1,3 +1,4 @@
 displayName = Mystical Adventure (Beta)
-author = OwenDraw x SoulMinf x NerdGarage
-version = 1.2
+author = OwenDraw & NerdGarage
+version = 0.0.1
+modReferences = StructureHelper

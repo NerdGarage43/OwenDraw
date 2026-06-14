@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Owendraw\\Owendraw.csproj": {}
+    "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OwenDraw\\Owendraw.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Owendraw\\Owendraw.csproj": {
+    "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OwenDraw\\Owendraw.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Owendraw\\Owendraw.csproj",
+        "projectUniqueName": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OwenDraw\\Owendraw.csproj",
         "projectName": "Owendraw",
-        "projectPath": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Owendraw\\Owendraw.csproj",
+        "projectPath": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OwenDraw\\Owendraw.csproj",
         "packagesPath": "C:\\Users\\Max Wierenga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Owendraw\\obj\\",
+        "outputPath": "C:\\Users\\Max Wierenga\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OwenDraw\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Max Wierenga\\AppData\\Roaming\\NuGet\\NuGet.Config"

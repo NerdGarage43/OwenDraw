@@ -1,1 +1,6 @@
-Mod that adds the OwenDraw vanity set as an accessory that can be worn in vanity slots
+Mystical Adventure is a future content mod with more bosses weapons and acessorys to come in the future.
+The mod currently adds 3 weapons that scale with pogression up until the Moon Lord.
+
+Credits:
+Sprites & Concepts: OwenDraw
+Programing: NerdGarage

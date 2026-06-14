@@ -1,59 +1,37 @@
 Mods: {
 	Owendraw: {
 		Items: {
-			Owendraw: {
-				DisplayName: Foxboy Scarf
-				Tooltip: ""
-			}
-
 			Guidance: {
-				DisplayName: Guidance
+				DisplayName: Soul Lantern
 				Tooltip: Increases damage and gains new attacks when bosses killed for the first time
 			}
 
-			SolarSingularity: {
-				DisplayName: Solar Singularity
-				Tooltip: ""
-			}
-
 			Contract: {
-				DisplayName: The Contract
+				DisplayName: Everjade Bow
 				Tooltip:
 					'''
-					Converts all arrows into Contract arrows
+					Converts all arrows into Everjade Arrows
 					Increases damage and gains new attacks when bosses killed for the first time
 					'''
 			}
 
 			SoulLantern: {
 				DisplayName: Everjade Relic
-				Tooltip: ""
+				Tooltip: "Increases damage and gains new attacks when bosses killed for the first time"
 			}
 		}
-
-		Configs: {
-			Config: {
-				DisplayName: OwenDraw's Vanity Config
-				DisableDyes.Tooltip: Disable Dyes
-			}
-		}
-
-		Config.DisableDyes: Disable Dyes
 
 		Projectiles: {
-			GuidanceFox_Body.DisplayName: Guidance Fox
-			GuidanceFox_Head.DisplayName: Guidance Fox
-			GuidanceFox_Tail.DisplayName: Guidance Fox
-			ContractArrowMode1.DisplayName: Contract Arrow
-			ContractArrowMode2.DisplayName: Contract Arrow
-			ContractSlash.DisplayName: Contract Slash
+			ContractArrowMode1.DisplayName: Everjade Arrow
+			ContractArrowMode2.DisplayName: Everjade Arrow
+			ContractSlash.DisplayName: Everjade Slash
 			SoulLanternBolt.DisplayName: Soul Light
 			SoulLanternSentry.DisplayName: Soul Lantern
-			GuidanceFoxBody.DisplayName: Guidance Fox Body
-			GuidanceFoxHead.DisplayName: Guidance Fox Head
-			GuidanceFoxShot.DisplayName: Guidance Fox Shot
-			GuidanceFoxTail.DisplayName: Guidance Fox Tail
-			GuidanceFoxTrail.DisplayName: Guidance Fox Trail
+			GuidanceFoxBody.DisplayName: Spectral Fox
+			GuidanceFoxHead.DisplayName: Spectral Fox
+			GuidanceFoxShot.DisplayName: Spectral Shot
+			GuidanceFoxTail.DisplayName: Spectral Fox
+			GuidanceFoxTrail.DisplayName: Spectral Shot
 		}
 	}
 }

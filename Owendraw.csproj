@@ -10,7 +10,9 @@
 
 	<!-- References -->
 	<ItemGroup>
-		
+		<Reference Include="StructureHelper">
+			<HintPath>ref\StructureHelper.dll</HintPath>
+		</Reference>
 	</ItemGroup>
 
 </Project>
